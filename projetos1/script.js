@@ -38,5 +38,5 @@ function clik() {
     location.reload(); // Recarregar a página
     });
     document.body.appendChild(botao);
-    
+
 }
